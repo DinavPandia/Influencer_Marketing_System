@@ -1,2 +1,2 @@
-# Influencer_Marketing_System
-An Influencer Marketing System that is developed in PHP and uses MySQL as Database
+# Influencer-Marketing-System
+An Influencer Marketing System that is developed in PHP and Uses MySQL as Database
